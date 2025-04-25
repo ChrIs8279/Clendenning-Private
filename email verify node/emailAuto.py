@@ -9,8 +9,8 @@ import smtplib
 email_receiver = sys.argv[1]  # First argument (email)
 verification_code = sys.argv[2]  # Second argument (code)
 
-email_sender = 'codeVerifyAuto@gmail.com'
-email_password = 'jxdc eicr zvyl iagr'
+email_sender = 'Email.Email.com'
+email_password = 'App Password'
 
 # Set the email subject and body
 subject = 'Verification Code'
